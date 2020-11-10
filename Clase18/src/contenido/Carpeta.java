@@ -8,7 +8,6 @@ public class Carpeta extends ElementoSA{
 
     protected ArrayList<ElementoSA> contenido;
 
-
     public Carpeta(String nombre){
         super(nombre);
         this.contenido = new ArrayList<>();
